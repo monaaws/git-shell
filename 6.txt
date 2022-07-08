@@ -1,7 +1,8 @@
-<<<<<<< HEAD
-hello file 7
-=======
-hello file 6
->>>>>>> feature/branch3
 
-added one more line in branch 1
+hello file 7
+hello file 6
+ feature/branch3
+
+added one more line in br
+hello file 6 what is desti
+ feature/branch3
