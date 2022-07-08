@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello file 7
+=======
+hello file 6
+>>>>>>> feature/branch3
