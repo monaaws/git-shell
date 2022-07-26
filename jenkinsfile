@@ -1,0 +1,25 @@
+pipeline {
+   agent { any agent
+    }
+     Stages {
+       stage1 {
+	     steps {
+           script {
+             sh "mvn clean install"
+           }
+         }
+     }		
+       Stages2 {
+           steps {
+             script {
+               sh "mvn clean install"
+			      }
+          }
+        }   
+    }    	  
+       
+   
+    
+   
+   
+   
